@@ -1,7 +1,6 @@
 layout: post
 title:  "天意·信"
 date:   2014-02-16 02:26:04
-description: 天意·信
 categories:
 - blog
 ---

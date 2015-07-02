@@ -1,7 +1,6 @@
 layout: post
 title:  "江南·离"
 date:   2014-02-15 15:35:10
-description: 江南·离
 categories:
 - blog
 ---
@@ -49,5 +48,3 @@ categories:
 <p style="text-align: center;">书到情深忽回首  <br/>
 方才知晓句句意  <br/>
 尽藏隐痛个个中</p>
-
-Want me to suggest something? Please [Send me a request](https://github.com/web-create/harmony/issues/new)

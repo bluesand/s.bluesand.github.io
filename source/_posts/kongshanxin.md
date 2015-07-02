@@ -1,7 +1,6 @@
 layout: post
 title:  "空山·新"
 date:   2014-02-15 15:35:54
-description: 空山·新
 categories:
 - blog
 ---

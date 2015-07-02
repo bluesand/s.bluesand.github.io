@@ -1,7 +1,6 @@
 layout: post
 title:  "悟空·归"
 date:   2014-02-16 02:55:12
-description: 悟空·归
 categories:
 - blog
 ---

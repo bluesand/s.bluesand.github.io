@@ -1,7 +1,6 @@
 layout: post
 title:  "江南·梦"
 date:   2014-02-15 15:34:27
-description: 江南·梦
 categories:
 - blog
 ---

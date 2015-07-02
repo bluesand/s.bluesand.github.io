@@ -1,7 +1,6 @@
-
+layout: post
 title:  "新宋·入世"
 date:   2014-03-09 13:31:10
-description: 新宋·入世
 categories:
 - blog
 ---
