@@ -2,7 +2,7 @@ layout: post
 title:  "江南·梦"
 date:   2014-02-15 15:34:27
 categories:
-- blog
+- 诗词
 ---
 
 <p style="text-align: center;">梦江南</p>

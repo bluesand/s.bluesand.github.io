@@ -2,7 +2,7 @@ layout: post
 title:  "空山·新"
 date:   2014-02-15 15:35:54
 categories:
-- blog
+- 诗词
 ---
 
 <p style="text-align: center;">[2008-9-24]雪见  <br/>

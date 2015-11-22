@@ -7,7 +7,7 @@ title: Bluesand
 subtitle: 上穷碧落下黄泉，须臾人生空留痴。
 description: 上穷碧落下黄泉，须臾人生空留痴。
 author: Bluesand
-language: en,zh-Hans
+language: zh-Hans
 timezone:
 
 # URL
@@ -46,6 +46,7 @@ highlight:
 # Category & Tag
 default_category: uncategorized
 category_map:
+  诗词: poem
 tag_map:
 
 # Date / Time format

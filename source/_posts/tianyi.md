@@ -2,7 +2,7 @@ layout: post
 title:  "天意·信"
 date:   2014-02-16 02:26:04
 categories:
-- blog
+- 诗词
 ---
 
 [2011/9/6]《天意·寒江》

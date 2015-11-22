@@ -2,7 +2,7 @@ layout: post
 title:  "新宋·入世"
 date:   2014-03-09 13:31:10
 categories:
-- blog
+- 诗词
 ---
 
 [2014/02/19]《新宋•入世》

@@ -2,7 +2,7 @@ layout: post
 title:  "江南·离"
 date:   2014-02-15 15:35:10
 categories:
-- blog
+- 诗词
 ---
 
 <p style="text-align: center;">[2007-4-26]   <br/>

@@ -2,7 +2,7 @@ layout: post
 title:  "天涯·痴"
 date:   2014-02-16 02:54:06
 categories:
-- blog
+- 诗词
 ---
 
 [2012/7/7]
